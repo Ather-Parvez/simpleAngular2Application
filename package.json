@@ -6,7 +6,7 @@
   "main": "src/tmp/app/main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antonybudianto/angular2-starter.git"
+    "url": "https://github.com/atherparvez/angular2-app.git"
   },
   "engines": {
     "node": ">=4.3",
@@ -36,7 +36,7 @@
     "jasmine",
     "istanbul"
   ],
-  "license": "MIT",
+  "license": "AP",
   "bugs": {
     "url": "https://github.com/antonybudianto/angular2-starter/issues"
   },
